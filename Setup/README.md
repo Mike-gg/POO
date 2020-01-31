@@ -1,5 +1,5 @@
 
-  # Actividad 1: Ejercicio de Markdown en Github.*
+  # Actividad 1: Ejercicio de Markdown en Github.
 
  Primeramente comenzamos con la instalación del programa **.Net Core**, es sumamente útil para el uso de la programación en ***VSC***.
 
