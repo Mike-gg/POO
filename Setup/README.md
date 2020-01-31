@@ -1,6 +1,7 @@
 
   # Actividad 1: Ejercicio de Markdown en Github.*
 
+ Primeramente comenzamos con la instalación del programa **.Net Core**, es sumamente útil para el uso de la programación en ***VSC***.
 
  ### Instalación de Dotnet Core: [*Link*](https://dotnet.microsoft.com/download ".Net Core" ) 
  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAJkLZta5CaYcLIrJ04Rgpieawmi32n2cYbVNImVzRgeqeZ1dk "Logo Title Text 1")
