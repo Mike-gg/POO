@@ -1,6 +1,6 @@
 
-  *Actividad 1: Ejercicio de Markdown en Github.*
+  # Actividad 1: Ejercicio de Markdown en Github.*
 
-# Instalación de Dotnet Core: https://dotnet.microsoft.com/download.
+ Instalación de Dotnet Core: [link](https://dotnet.microsoft.com/download ".Net Core" ) 
 
-# Instalación de Visual Studio Code: https://code.visualstudio.com/download.
+ Instalación de Visual Studio Code: https://code.visualstudio.com/download.
