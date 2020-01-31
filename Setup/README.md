@@ -3,4 +3,7 @@
 
  Instalación de Dotnet Core: [link](https://dotnet.microsoft.com/download ".Net Core" ) 
 
- Instalación de Visual Studio Code: https://code.visualstudio.com/download.
+ Instalación de Visual Studio Code: [Link](https://code.visualstudio.com/download "VSC")
+
+ Instalación de Git: [Link](https://git-scm.com/download/win "Git" )
+
