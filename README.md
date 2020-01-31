@@ -1,5 +1,3 @@
 # POO
 
-Hello there.
-
-Hello again...
+  *Actividad 1: Ejercicio de Markdown en Github.*
