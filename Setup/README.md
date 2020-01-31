@@ -1,7 +1,8 @@
 
   # Actividad 1: Ejercicio de Markdown en Github.*
 
-    ![alt text](https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=U_8I9gzFF2Cqi5zUNx-kHJuou_BWNurkhN_kSm3mCmo "logo ")
+    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
  ### Instalación de Dotnet Core: [*Link*](https://dotnet.microsoft.com/download ".Net Core" ) 
 
