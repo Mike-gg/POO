@@ -15,6 +15,7 @@
  ![alt text](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-descargar-2.png "Logo Titile Text 1")
 
  <br>
+ 
 Una extensión muy útil y necesaria para el funcionamiento completo de ***VSC***, es la extensión para el lenguaje ***C++***.
 Buscando en el apartado de extensiones fácilmente se puede encontrar e instalar.
 
