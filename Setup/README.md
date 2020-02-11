@@ -21,8 +21,11 @@ Buscando en el apartado de extensiones fácilmente se puede encontrar e instalar
  ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/BotonInstallVSC.png)
  
  <br>
+ 
  Una vez desargado se pulsa el botón "reload" y esperamos hasta que termine para finalmente finalizar su configuración con .Net core.
+ 
  <br>
+ 
  ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/reload.png)
  <br>
 
