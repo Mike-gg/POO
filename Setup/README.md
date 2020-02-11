@@ -4,6 +4,9 @@
  Primeramente comenzamos con la instalación del programa **.Net Core**, es sumamente útil para el uso de la programación en ***VSC***.
 
  ### Instalación de Dotnet Core: [*Link*](https://dotnet.microsoft.com/download ".Net Core" ) 
+ 
+ ***OJO, tiene que ser el SDK y no solo el runtime***
+
  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAJkLZta5CaYcLIrJ04Rgpieawmi32n2cYbVNImVzRgeqeZ1dk "Logo Title Text 1")
 
  <br>
@@ -11,6 +14,11 @@
  ### Instalación de Visual Studio Code: [*Link*](https://code.visualstudio.com/download "VSC")
  ![alt text](https://www.mclibre.org/consultar/informatica/img/vscode/vsc-descargar-2.png "Logo Titile Text 1")
 
+ <br>
+Una extensión muy útil y necesaria para el funcionamiento completo de ***VSC***, es la extensión para el lenguaje ***C++***.
+Buscando en el apartado de extensiones fácilmente se puede encontrar e instalar.
+
+ ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/BotonInstallVSC.png)
  <br>
 
  ### Instalación de Git: [*Link*](https://git-scm.com/download/win "Git" )
