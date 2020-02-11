@@ -7,7 +7,7 @@
  
  ***OJO, tiene que ser el SDK y no solo el runtime***
 
- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAJkLZta5CaYcLIrJ04Rgpieawmi32n2cYbVNImVzRgeqeZ1dk "Logo Title Text 1")
+ ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargaSDKNetCore.png "Logo Title Text 1")
 
  <br>
 
