@@ -18,6 +18,8 @@
 Una extensión muy útil y necesaria para el funcionamiento completo de ***VSC***, es la extensión para el lenguaje ***C++***.
 Buscando en el apartado de extensiones fácilmente se puede encontrar e instalar.
 
+<br>
+
  ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/BotonInstallVSC.png)
  
  <br>
