@@ -7,7 +7,7 @@
  
  ***OJO, tiene que ser el SDK y no solo el runtime, además de verificar bien si lo va a instalar para los sistemas operativos Windows, Linux o mac OS***
 
- ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargaSDKNetCore.png "Logo Title Text 1")
+ ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargaSDKNetCore.png "ola k ase")
 
  <br>
 
