@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Peliculas\\Peliculas.csproj": {}
+    "C:\\Users\\ITT\\Documents\\GitHub\\POO\\Peliculas\\Peliculas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Peliculas\\Peliculas.csproj": {
+    "C:\\Users\\ITT\\Documents\\GitHub\\POO\\Peliculas\\Peliculas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Peliculas\\Peliculas.csproj",
+        "projectUniqueName": "C:\\Users\\ITT\\Documents\\GitHub\\POO\\Peliculas\\Peliculas.csproj",
         "projectName": "Peliculas",
-        "projectPath": "C:\\Users\\Home\\Peliculas\\Peliculas.csproj",
-        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Peliculas\\obj\\",
+        "projectPath": "C:\\Users\\ITT\\Documents\\GitHub\\POO\\Peliculas\\Peliculas.csproj",
+        "packagesPath": "C:\\Users\\ITT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITT\\Documents\\GitHub\\POO\\Peliculas\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ITT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

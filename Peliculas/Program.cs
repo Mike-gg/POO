@@ -1,54 +1,40 @@
 ﻿using System;
+using System.Collections.Generic;
 
-public class Program
-{
-	class Peliculas
+class Peliculas
 	{
 		private string Titulo;
 		private int Año;
 		private string Pais;
 		private string Director;
-		
-		public Peliculas( string t, int a, string p, string d)
-		{
+		public void imprime()
+			{
+			Console.WriteLine(Titulo + Año + Pais + Director);
+			}
+
+			public  Peliculas(string t, int a, string p, string d)
+			{
 			this.Titulo = t;
 			this.Año = a;
-           	 this.Pais = p;
-           	 this.Director = d;
-		}
-		
-			public string getNombre()
-			{
-				return Titulo;
+           	this.Pais = p;
+           	this.Director = d;
 			}
-			public int getAño()
-			{
-				return Año;
-			}
-        		public string getDirector()
-        		{	
-            			return Director;
-        		}	
-        		public string getPais()
-        		{
-            			return Pais;
-        		}
 		}
-		public static void Main()
+		public class Program
 		{
-		Peliculas a = new Peliculas("Joker", 2019,  "USA", "Todd Phillips");
-		Peliculas b = new Peliculas("Revenant", 2015, "USA", "Alejandro González Iñárritu");
-        Peliculas c = new Peliculas("Birdman", 2014, "USA", "Alejandro González Iñárritu");
-        Peliculas d = new Peliculas("La forma del agua",2017 ,"USA" ,"Guillermo del Toro" );
-        Peliculas e = new Peliculas("Gladiador", 1992,"UK", "Ridley Scott");
-
-        Console.WriteLine("|" + "Titulo" + "           |" + "Año" + " |" + "País" + "|" + "Director                    |");
-	Console.WriteLine("|-----------------|----|----|----------------------------|");
-	Console.WriteLine("|" + a.getNombre() +"            |" + a.getAño() +"|" + a.getPais() +" |" +  " " + a.getDirector() + "              |");
-        Console.WriteLine("|" + b.getNombre() +"         |" + b.getAño() +"|" + b.getPais() +" |" +  " " + b.getDirector() + "|");
-        Console.WriteLine("|" + c.getNombre() +"          |" + c.getAño() +"|" + c.getPais() +" |" +  " " + c.getDirector() + "|");
-        Console.WriteLine("|" + d.getNombre() +"|" + d.getAño() +"|" + d.getPais() +" |" +  " " + d.getDirector() + "         |");
-        Console.WriteLine("|" + e.getNombre() +"        |" + e.getAño() +"| " + e.getPais() +" |" +  " " + e.getDirector() + "               |");
-        Console.WriteLine("|-----------------|----|----|----------------------------|");
-	}
+			static void Main(String[] args)
+			{
+				List<Peliculas> P = new List<Peliculas>();
+				P.Add(new Peliculas("Joker", 2019,  "USA", "Todd Phillips"));
+				P.Add(new Peliculas("Revenant", 2015, "USA", "Alejandro González Iñárritu"));
+				P.Add(new Peliculas("Birdman", 2014, "USA", "Alejandro González Iñárritu"));
+				P.Add(new Peliculas("La forma del agua",2017 ,"USA" ,"Guillermo del Toro" ));
+				P.Add(new Peliculas("Gladiador", 1992,"UK", "Ridley Scott"));
+				
+				foreach(Peliculas a in P)
+					{
+					a.imprime();
+					}
+			}    
+    
 }

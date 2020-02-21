@@ -9,3 +9,14 @@ C:\Users\Home\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.AssemblyInfoInputs.cac
 C:\Users\Home\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.AssemblyInfo.cs
 C:\Users\Home\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.dll
 C:\Users\Home\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.pdb
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.AssemblyInfo.cs
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.dll
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\obj\Debug\netcoreapp3.1\Peliculas.pdb
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\bin\Debug\netcoreapp3.1\Peliculas.exe
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\bin\Debug\netcoreapp3.1\Peliculas.deps.json
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\bin\Debug\netcoreapp3.1\Peliculas.runtimeconfig.json
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\bin\Debug\netcoreapp3.1\Peliculas.runtimeconfig.dev.json
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\bin\Debug\netcoreapp3.1\Peliculas.dll
+C:\Users\ITT\Documents\GitHub\POO\Peliculas\bin\Debug\netcoreapp3.1\Peliculas.pdb
