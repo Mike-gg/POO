@@ -13,31 +13,29 @@ public class Program
 		{
 			this.Titulo = t;
 			this.Año = a;
-            this.Pais = p;
-            this.Director = d;
+           	 this.Pais = p;
+           	 this.Director = d;
 		}
 		
-		public string getNombre()
-		{
-			return Titulo;
+			public string getNombre()
+			{
+				return Titulo;
+			}
+			public int getAño()
+			{
+				return Año;
+			}
+        		public string getDirector()
+        		{	
+            			return Director;
+        		}	
+        		public string getPais()
+        		{
+            			return Pais;
+        		}
 		}
-		
-		public int getAño()
+		public static void Main()
 		{
-			return Año;
-		}
-
-        public string getDirector()
-        {
-            return Director;
-        }
-        public string getPais()
-        {
-            return Pais;
-        }
-	}
-	public static void Main()
-	{
 		Peliculas a = new Peliculas("Joker", 2019,  "USA", "Todd Phillips");
 		Peliculas b = new Peliculas("Revenant", 2015, "USA", "Alejandro González Iñárritu");
         Peliculas c = new Peliculas("Birdman", 2014, "USA", "Alejandro González Iñárritu");
@@ -45,8 +43,8 @@ public class Program
         Peliculas e = new Peliculas("Gladiador", 1992,"UK", "Ridley Scott");
 
         Console.WriteLine("|" + "Titulo" + "           |" + "Año" + " |" + "País" + "|" + "Director                    |");
-		Console.WriteLine("|-----------------|----|----|----------------------------|");
-		Console.WriteLine("|" + a.getNombre() +"            |" + a.getAño() +"|" + a.getPais() +" |" +  " " + a.getDirector() + "              |");
+	Console.WriteLine("|-----------------|----|----|----------------------------|");
+	Console.WriteLine("|" + a.getNombre() +"            |" + a.getAño() +"|" + a.getPais() +" |" +  " " + a.getDirector() + "              |");
         Console.WriteLine("|" + b.getNombre() +"         |" + b.getAño() +"|" + b.getPais() +" |" +  " " + b.getDirector() + "|");
         Console.WriteLine("|" + c.getNombre() +"          |" + c.getAño() +"|" + c.getPais() +" |" +  " " + c.getDirector() + "|");
         Console.WriteLine("|" + d.getNombre() +"|" + d.getAño() +"|" + d.getPais() +" |" +  " " + d.getDirector() + "         |");
