@@ -24,7 +24,7 @@ class Peliculas
 		{
 			static void Main(String[] args)
 			{
-				Console.WriteLine("|------------------------------------------------------|");
+				Console.WriteLine("|-----------------|-------------------------------------|");
 				List<Peliculas> P = new List<Peliculas>();
 				P.Add(new Peliculas("|Joker            |", 2019,  "|USA|", "Todd Phillips              |"));
 				P.Add(new Peliculas("|Revenant         |", 2015, "|USA|", "Alejandro González Iñárritu|"));
