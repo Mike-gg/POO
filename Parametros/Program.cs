@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace Parametros
 {
@@ -7,6 +7,7 @@ namespace Parametros
         public static void SumaUno(ref int x)
         {
             x = x + 2;
+            Console.WriteLine(x);
         }
     }
     class Program
