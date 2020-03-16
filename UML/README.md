@@ -2,7 +2,7 @@
   
   1. Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
 
-![Alt text]https://github.com/Mike-gg/POO/blob/master/UML/School.jpeg)
+![Alt text](https://github.com/Mike-gg/POO/blob/master/UML/School.jpeg)
 <br>
 
   2. Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
