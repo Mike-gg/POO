@@ -3,12 +3,10 @@
   1. Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
 
 ![Alt text](https://github.com/Mike-gg/POO/blob/master/UML/School.jpeg)
-<br>
 
   2. Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
 
 ![Alt text](https://github.com/Mike-gg/POO/blob/master/UML/Librero.jpeg)
-<br>
 
   3. Nos piden hacer una aplicación para llevar una bitácora de los libros
   que estamos leyendo y aquellos que ya hemos terminado de leer. 
